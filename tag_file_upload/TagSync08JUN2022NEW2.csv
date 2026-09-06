@@ -1,0 +1,2 @@
+Id,account_id,instance_id,resource_name,region,resource_type,compliance,Name,Application Name,Environment,Application Owner,Function,Previous Hostname,DailyBackup,Hostname,MonthlyBackup,OS,Patch Group,DR Replication
+"13","508611289386","i-09a6cf20ea3e0ff2a","AW2COGNOST01","us-west-2","EC2","Compliant","AW2COGNOST01","Cognos","Test","Pat Cooper","Cognos server","NR","FALSE","AW2COGNOST01","TRUE","2012","DO_NOT_PATCH","FALSE"
